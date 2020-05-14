@@ -1,2 +1,2 @@
 # game_design
-games i made from my game design class
+Games created made from my game design class
